@@ -1,0 +1,22 @@
+body{
+margin: 0px;
+display: flex;
+justify-content: center;
+background-color: darkslategray;
+}
+
+.contenedor1{
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+background-color: mintcream;
+margin-top: 20px;
+}
+
+.contenedor2{
+position: absolute;
+top: 300px;
+background-color: antiquewhite;
+}
